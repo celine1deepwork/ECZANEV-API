@@ -1,0 +1,4 @@
+module InternalCollectionsUtilities {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/InternalCollectionsUtilities.build/InternalCollectionsUtilities-Swift.h"
+    requires objc
+}

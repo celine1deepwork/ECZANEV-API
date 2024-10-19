@@ -1,0 +1,4 @@
+module WebSocketKit {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/WebSocketKit.build/WebSocketKit-Swift.h"
+    requires objc
+}

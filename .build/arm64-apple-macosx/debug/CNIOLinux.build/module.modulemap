@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+    export *
+}

@@ -1,0 +1,4 @@
+module NIOFileSystem {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/NIOFileSystem.build/NIOFileSystem-Swift.h"
+    requires objc
+}

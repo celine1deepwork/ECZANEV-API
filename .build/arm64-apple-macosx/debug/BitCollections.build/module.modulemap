@@ -1,0 +1,4 @@
+module BitCollections {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/BitCollections.build/BitCollections-Swift.h"
+    requires objc
+}

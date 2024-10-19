@@ -1,0 +1,4 @@
+module NIO {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/NIO.build/NIO-Swift.h"
+    requires objc
+}

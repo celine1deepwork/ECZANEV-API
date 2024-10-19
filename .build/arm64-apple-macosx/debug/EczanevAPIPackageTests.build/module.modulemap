@@ -1,0 +1,4 @@
+module EczanevAPIPackageTests {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/EczanevAPIPackageTests.build/EczanevAPIPackageTests-Swift.h"
+    requires objc
+}

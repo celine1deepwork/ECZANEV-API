@@ -1,0 +1,4 @@
+module FluentMySQLDriver {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDriver-Swift.h"
+    requires objc
+}

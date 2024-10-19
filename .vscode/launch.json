@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ECZANEV-API}",
+            "name": "Debug App",
+            "program": "${workspaceFolder:ECZANEV-API}/.build/debug/App",
+            "preLaunchTask": "swift: Build Debug App"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ECZANEV-API}",
+            "name": "Release App",
+            "program": "${workspaceFolder:ECZANEV-API}/.build/release/App",
+            "preLaunchTask": "swift: Build Release App"
+        }
+    ]
+}

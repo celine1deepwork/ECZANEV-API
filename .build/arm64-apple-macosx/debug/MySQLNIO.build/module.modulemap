@@ -1,0 +1,4 @@
+module MySQLNIO {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/MySQLNIO.build/MySQLNIO-Swift.h"
+    requires objc
+}

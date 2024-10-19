@@ -1,0 +1,4 @@
+module ConsoleKitTerminal {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/ConsoleKitTerminal-Swift.h"
+    requires objc
+}

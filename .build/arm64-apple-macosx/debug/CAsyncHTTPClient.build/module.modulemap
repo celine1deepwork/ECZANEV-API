@@ -1,0 +1,4 @@
+module CAsyncHTTPClient {
+    umbrella header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/checkouts/async-http-client/Sources/CAsyncHTTPClient/include/CAsyncHTTPClient.h"
+    export *
+}

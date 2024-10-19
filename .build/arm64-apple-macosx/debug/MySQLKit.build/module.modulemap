@@ -1,0 +1,4 @@
+module MySQLKit {
+    header "/Users/marcelinedilara/Desktop/Github /PharmacyApp/ECZANEV-API/.build/arm64-apple-macosx/debug/MySQLKit.build/MySQLKit-Swift.h"
+    requires objc
+}
